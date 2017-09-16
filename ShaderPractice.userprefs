@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TextureMaterials\TextureShade.shader">
+    <Files>
+      <File FileName="Assets\Materials\Lambert.shader" Line="47" Column="18" />
+      <File FileName="Assets\Materials\Ambient.shader" Line="36" Column="27" />
+      <File FileName="Assets\Materials\Rim.shader" Line="57" Column="39" />
+      <File FileName="Assets\Materials\MultiLight.shader" Line="149" Column="1" />
+      <File FileName="Assets\Materials\PointLight.shader" Line="86" Column="39" />
+      <File FileName="Assets\TextureMaterials\TextureShade.shader" Line="80" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
